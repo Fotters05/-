@@ -1,0 +1,4 @@
+C:\Users\Fotters\source\repos\Tortik\obj\Debug\net7.0\Tortik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotters\source\repos\Tortik\obj\Debug\net7.0\Tortik.AssemblyInfoInputs.cache
+C:\Users\Fotters\source\repos\Tortik\obj\Debug\net7.0\Tortik.AssemblyInfo.cs
+C:\Users\Fotters\source\repos\Tortik\obj\Debug\net7.0\Tortik.csproj.CoreCompileInputs.cache
